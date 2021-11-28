@@ -15,7 +15,7 @@ function createEnemies(ctx, canvas, enemyImg) {
 window.onload = async () => {
   canvas = document.getElementById('canvas')
   ctx = canvas.getContext('2d')
-  // TODO load textures
+console.log('Working')
 
   // TODO draw black background
   // TODO draw hero
